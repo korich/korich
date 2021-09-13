@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @korich
 - 👀 I’m interested IoT and moblie developement
-- 🌱 I’m currently learning how to use the ESP8266
+- 🌱 I’m currently learning how to use the ESP8266 chip
 - 💞️ I’m looking to collaborate on intresting new things
 - 📫 How to reach me ...
